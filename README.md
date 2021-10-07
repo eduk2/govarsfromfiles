@@ -55,7 +55,7 @@ If your variables use others types of quotes for example ' like this:
     $db_host = 'localhost';
     $db_username = 'this is username';
     $db_password = 'this is the password';
-    $db_name = "this is the database name";
+    $db_name = 'this is the database name';
     ?>
 
 You can configure how to get it with a regular expression in this way:
