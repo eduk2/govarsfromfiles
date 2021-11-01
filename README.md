@@ -5,7 +5,7 @@ govarsfromfiles
 
 For example from configuration.php with database variables configuration you can get host, database name, username and password.
 
-##Usage example
+## Usage example
 
 You can have for example a file called configuration.php like this:
 
@@ -20,7 +20,7 @@ You can have for example a file called configuration.php like this:
     ?>
 
 
-##How to get the package
+## How to get the package
 
     go get github.com/eduk2/govarsfromfiles
 
